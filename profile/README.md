@@ -1,12 +1,12 @@
-## BaaastyDE Minecraft Network
+# BaaastyDE Minecraft Network
 
 
-** ➥ 🙋‍♀️ • A short introduction**
+## ➥ 🙋‍♀️ • A short introduction
 
 We are the development team of the Minecraft server Baaasty.de! Some projects we share publicly here, so check it out. Of course you are also welcome to visit our Discord
 
 
-** ➥ 🪖 • Our team**
+## ➥ 🪖 • Our team
 
 Admin:
 - Baaasty
