@@ -9,11 +9,11 @@ We are the development team of the Minecraft server Baaasty.de! Some projects we
 ### ➥ 🪖 • Our team
 Admin:
 - Baaasty
-- MoBro
 - Tymbnt
 
 Developer:
-- ...
+- Clumbiii_
+- FundyJo
 
 
 ### ➥ 📞 • Contact us
