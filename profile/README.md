@@ -13,8 +13,8 @@ Admin:
 
 Developer:
 - Clumbiii_
-- FundyJo
 - Allround
+- CodedInfinity
 
 
 ### ➥ 📞 • Contact us
