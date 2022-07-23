@@ -12,9 +12,7 @@ Admin:
 - Tymbnt
 
 Developer:
-- Clumbiii_
-- Allround
-- CodedInfinity
+ - ...
 
 
 ### ➥ 📞 • Contact us
