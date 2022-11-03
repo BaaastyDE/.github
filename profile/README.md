@@ -9,10 +9,6 @@ We are the development team of the Minecraft server Baaasty.de! Some projects we
 ### ➥ 👩🏼‍🤝‍🧑🏼 • Our team
 Admin:
 - Baaasty
-- Tymbnt
-
-Developer:
- - ...
 
 
 ### ➥ 📞 • Contact us
