@@ -11,7 +11,7 @@ Admin:
 - Baaasty
 
 Junior developer:
-- ProxyFile
+- AtomicCoconut
 
 
 ### ➥ 📞 • Contact us
