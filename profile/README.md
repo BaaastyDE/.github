@@ -12,6 +12,7 @@ Admin:
 
 Junior developer:
 - AtomicCoconut
+- MurphysGesetz
 
 
 ### ➥ 📞 • Contact us
