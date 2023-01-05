@@ -15,5 +15,6 @@ Senior developer:
 
 
 ### ➥ 📞 • Contact us
+- Website: https://baaasty.de
 - E-Mail: contact@baaasty.de
-- Discord: https://dsc.gg/baaasty
+- Discord: https://discord.gg/baaasty
