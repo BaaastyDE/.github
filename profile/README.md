@@ -10,7 +10,7 @@ We are the development team of the Minecraft server Baaasty.de! Some projects we
 Admin:
 - Baaasty
 
-Junior developer:
+Senior developer:
 - AtomicCoconut
 
 
