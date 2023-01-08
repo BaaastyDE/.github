@@ -13,6 +13,9 @@ Admin:
 Senior developer:
 - AtomicCoconut
 
+Junior developer:
+- florianHamal
+
 
 ### ➥ 📞 • Contact us
 - Website: https://baaasty.de
