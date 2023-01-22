@@ -13,8 +13,9 @@ Admin:
 Senior developer:
 - AtomicCoconut
 
-Junior developer:
+Ddeveloper:
 - florianHamal
+- amonhtm
 
 
 ### ➥ 📞 • Contact us
